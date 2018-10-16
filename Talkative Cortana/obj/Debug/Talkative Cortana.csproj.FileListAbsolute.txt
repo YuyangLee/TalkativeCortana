@@ -5,3 +5,10 @@ D:\Programming\C#\Talkative Cortana\Talkative Cortana\obj\Debug\Talkative Cortan
 D:\Programming\C#\Talkative Cortana\Talkative Cortana\obj\Debug\Talkative Cortana.csproj.CoreCompileInputs.cache
 D:\Programming\C#\Talkative Cortana\Talkative Cortana\obj\Debug\Talkative Cortana.exe
 D:\Programming\C#\Talkative Cortana\Talkative Cortana\obj\Debug\Talkative Cortana.pdb
+D:\Programming\C#\Talkative Cortana\TalkativeCortana\Talkative Cortana\bin\Debug\Talkative Cortana.exe.config
+D:\Programming\C#\Talkative Cortana\TalkativeCortana\Talkative Cortana\bin\Debug\Talkative Cortana.exe
+D:\Programming\C#\Talkative Cortana\TalkativeCortana\Talkative Cortana\bin\Debug\Talkative Cortana.pdb
+D:\Programming\C#\Talkative Cortana\TalkativeCortana\Talkative Cortana\obj\Debug\Talkative Cortana.csprojAssemblyReference.cache
+D:\Programming\C#\Talkative Cortana\TalkativeCortana\Talkative Cortana\obj\Debug\Talkative Cortana.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Talkative Cortana\TalkativeCortana\Talkative Cortana\obj\Debug\Talkative Cortana.exe
+D:\Programming\C#\Talkative Cortana\TalkativeCortana\Talkative Cortana\obj\Debug\Talkative Cortana.pdb
